@@ -43,4 +43,4 @@ public class HelloWorld {
 
 >### Start early, start often!
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built by Xiaoshuo Yao using [GitHub Pages](https://pages.github.com/).
