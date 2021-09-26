@@ -19,6 +19,7 @@
 - Sci-fiction movie/novels
 - Snowboarding
 - Fishing
+- [My favorite youtube channel](https://www.youtube.com/c/LinusTechTips)
 
 ### My (Everyone's) First Code
 ```
