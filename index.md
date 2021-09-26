@@ -2,9 +2,9 @@
 
 
 ### About Me
-4th year student **@UCSD**
-Major in Cognitive Science w/spec in Machine Learning & Neural Computation
-Minor in Computer Science
+- 4th year student **@UCSD**
+- Major in Cognitive Science w/spec in Machine Learning & Neural Computation
+- Minor in Computer Science
 
 
 ### Programing Languages (Ordered by Familiarity)
